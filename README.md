@@ -4,7 +4,7 @@
 ## 1. Files contained in this repository
 
 - README.md - This file.
-- rule110.f90 - the main R script, see description below.
+- rule110.f90 - A simple FORTRAN program, see description below.
 
 ## 2. General description
 Cellular Automata are very fascinating machines that can be easily simulated on a computer by evolving a state vector according to a certain rule. Because some people find it confusing that a rule can be expressed with just a number, like rule 110, let me try to explain what that means.
