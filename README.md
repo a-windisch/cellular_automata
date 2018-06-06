@@ -66,7 +66,7 @@ Now that you know what rule 110 is, let us evolve the state vector we defined ab
 . . . . . . . . . . . 
 . . . . . . . . . . . 
 ```
-There is one last thing that I would like to mention. It is convenient to write a rule in terms of a boolean expression of p, q and r. For example, for rule 110 one finds, see e.g. [wolfram aplpha](https://www.wolframalpha.com/input/?i=rule+110&lk=3):
+There is one last thing that I would like to mention. It is convenient to write a rule in terms of a boolean expression of p, q and r. For example, for rule 110 one finds, see e.g. [wolfram alpha](https://www.wolframalpha.com/input/?i=rule+110&lk=3):
 
 ```bash
   q AND (NOT p) OR (q XOR r)
@@ -86,8 +86,8 @@ Let us see how this works out by adding yet another column to our table:
 |     8    |   1   |   1   |   1    |      0       |           0                    |
 
 
-This should be enough to get you started implementing your own cellular automaton and studying its properties. The most fascinating aspect about rule 110 is, that it is a Turing complete automaton [1](https://web.archive.org/web/20160528014857/http://www.complex-systems.com/pdf/15-1-1.pdf).
-This rule is readily implemented and is fun to play with. I do hope that you enjoy this subject as much as I do! Have fun playing with cellular automata :-) (feel free to contact me using the meail address above).
+This should be enough to get you started implementing your own cellular automaton and studying its properties. The most fascinating aspect about rule 110 is, that it is a Turing complete automaton [[1]](https://web.archive.org/web/20160528014857/http://www.complex-systems.com/pdf/15-1-1.pdf).
+This rule is readily implemented and is fun to play with. I do hope that you enjoy this subject as much as I do! Have fun playing with cellular automata :-) (feel free to contact me using the email address above).
 
 ## 3. rule110.f90
 This file contains a few lines of code that implement rule 110 in Fortran.
