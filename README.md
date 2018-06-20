@@ -87,7 +87,7 @@ Let us see how this works out by adding yet another column to our table:
 
 
 This should be enough to get you started implementing your own cellular automaton and studying its properties. The most fascinating aspect about rule 110 is, that it is a Turing complete automaton [[1]](https://web.archive.org/web/20160528014857/http://www.complex-systems.com/pdf/15-1-1.pdf).
-This rule is readily implemented and is fun to play with. I do hope that you enjoy this subject as much as I do! Have fun playing with cellular automata :-) (feel free to contact me using the email address above).
+This rule is readily implemented and is fun to play with. I do hope that you enjoy this subject as much as I do! Have fun playing with cellular automata :-) Feel free to contact me using the email address above or find me on [LinkedIn](https://www.linkedin.com/in/andreas-windisch-physics/) and connect.
 
 ## 3. rule110.f90
 This file contains a few lines of code that implement rule 110 in Fortran.
